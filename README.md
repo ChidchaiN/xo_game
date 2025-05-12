@@ -122,6 +122,8 @@ static int minimax(List<List<String>> board, int depth, bool isMax) {
  - Design wireframes with Figma
  - Focus on clarity and usability
 
+https://www.figma.com/design/fZuTreUlggw0izl5KZnKRO/XO_Game_App_UIFlow?node-id=0-1&t=jY1ILn46pfwilXh7-1
+
 ### Tech Stack
 
  - Flutter: Cross-platform app development

@@ -30,12 +30,14 @@ This will launch the app on the connected device or emulator.
 ## Project Structure
 The project is organized using a feature-based architecture:
 
+```bash
 lib/
 ├── core/        # Shared utilities, themes, constants
 ├── data/        # Database services (Sembast)
 ├── features/    # Feature-specific code (game, history, replay)
 ├── shared/      # Reusable widgets (e.g., game board)
 └── routes/      # Navigation setup
+```
 
 ## How to Run the App
 1. Open the project in Android Studio or VS Code.
